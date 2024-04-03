@@ -1,3 +1,3 @@
-# Graduation-Project
+# Expense Manager
 
-## My Graduation Project from C.I.S major in new Cairo Academy 2023
+## Built with asp.net EF-core and Highchart
